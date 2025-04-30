@@ -18,7 +18,6 @@ Spring Boot pagrindu sukurta REST API sistema studentų kursinių darbų sekimui
 - Java 17+
 - Spring Boot 3
 - Spring Data JPA
-- H2 duomenų bazė (testavimui)
 - Postman (testavimui)
 - Swagger (API dokumentacija)
 
