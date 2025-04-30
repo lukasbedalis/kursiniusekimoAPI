@@ -22,18 +22,6 @@ Spring Boot pagrindu sukurta REST API sistema studentų kursinių darbų sekimui
 - Postman (testavimui)
 - Swagger (API dokumentacija)
 
-## Paleidimas lokaliai
-
-1. Įsitikink, kad turi JDK ir Maven.
-2. Paleisk komandą:./mvnw spring-boot:run
-
-3. API bus pasiekiama per: `http://localhost:8080`
-
-## Duomenų bazės testavimui
-
-Automatiškai užkraunama `data.sql` failo pagalba:
-- Sukuriami studentai, moduliai ir užduotys
-
 ## API testavimas su Postman
 
 Sukurtas Postman kolekcijos failas:
